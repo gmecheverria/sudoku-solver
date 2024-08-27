@@ -7,6 +7,7 @@ The application retrieves solutions for Sudoku puzzles using the Solve Sudoku AP
 <br>
 This project is based on a tutorial by Ania Kubow, with personalized styling and enhancements.
 <br>
+<br>
 <b>Features</b>
 <ul>
   <li>Solve Sudoku puzzles of varying difficulty levels.</li>
