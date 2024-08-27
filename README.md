@@ -1,7 +1,7 @@
-# sudoku-solver
+# Sudoku-Solver
 This project is a Sudoku solver application built using JavaScript and NodeJS, utilizing an external API to solve Sudoku puzzles programmatically.
 
-<b>Overview<b>
+<b>Overview</b>
 The application retrieves solutions for Sudoku puzzles using the Solve Sudoku API by Sean Osier. This project is based on a tutorial by Ania Kubow, with personalized styling and enhancements.
 
 Features
