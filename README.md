@@ -17,9 +17,7 @@ This project is based on a tutorial by Ania Kubow, with personalized styling and
 <br>
 <b>API Reference</b>
 <br>
-<ul>
-  <li>Solve Sudoku by Sean Osier: This API is used to fetch solutions for given Sudoku puzzles. Learn more about it <a href="https://rapidapi.com/sosier/api/solve-sudoku">here</a></li>
-</ul>
+Solve Sudoku by Sean Osier: This API is used to fetch solutions for given Sudoku puzzles. Learn more about it <a href="https://rapidapi.com/sosier/api/solve-sudoku">here</a>
 <br>
 <b>Credits</b>
 Project inspiration and tutorial by Ania Kubow. Follow along here to build this project: https://youtu.be/F1vKV8fR1Os
