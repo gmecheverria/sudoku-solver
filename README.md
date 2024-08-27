@@ -14,7 +14,7 @@ This project is based on a tutorial by Ania Kubow, with personalized styling and
   <li>Fetch Sudoku solutions using a reliable external API.</li>
   <li>Custom styling.</li>
 </ul>
-<br>
+
 <b>API Reference</b>
 <br>
 Solve Sudoku by Sean Osier: This API is used to fetch solutions for given Sudoku puzzles. Learn more about it <a href="https://rapidapi.com/sosier/api/solve-sudoku">here</a>
