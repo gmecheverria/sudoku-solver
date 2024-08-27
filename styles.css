@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+hr {
+    width: 500px;
+}
+
+#puzzle {
+    width: 450px;
+    height: 450px;
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#puzzle input {
+    width: 50px;
+    height: 50px;
+    box-sizing: border-box;
+    border-spacing: 0;
+    border: 1px grey solid;
+}
+
+#solve-button {
+    background-color: lightgrey;
+    border: none;
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px;
+    padding: 10px;
+}
+
+#solve-button:hover {
+    background-color: grey;
+}
+
+.odd-section {
+    background-color: lightgray;
+}
